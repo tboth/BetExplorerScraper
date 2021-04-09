@@ -1,0 +1,1 @@
+DELETE FROM matches WHERE team1goals IS NULL AND team2goals IS NULL AND date != date('now');
