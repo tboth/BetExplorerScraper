@@ -1,0 +1,6 @@
+.vscode
+*.xlsx
+__pycache__
+debug.log
+chromedriver.exe
+*.sqlite3
